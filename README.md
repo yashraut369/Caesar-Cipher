@@ -11,9 +11,6 @@ A professional GUI application for encrypting and decrypting text using the Caes
 - Support for keyboard shortcuts
 - Clear all fields with one click
 
-## Screenshots
-
-![Caesar Cipher Tool Screenshot](screenshots/screenshot.png)
 
 ## Installation
 
@@ -37,7 +34,7 @@ A professional GUI application for encrypting and decrypting text using the Caes
 
 3. Run the application:
    ```
-   python caesar_cipher_gui.py
+   python Caesar-Cipher.py
    ```
 
 ## Usage
