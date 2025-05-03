@@ -26,8 +26,8 @@ A professional GUI application for encrypting and decrypting text using the Caes
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/caesar-cipher-tool.git
-   cd caesar-cipher-tool
+   git clone https://github.com/yashraut369/Caesar-Cipher.git
+   cd Caesar-Cipher
    ```
 
 2. Install required packages:
@@ -63,14 +63,11 @@ For example, with a left shift of 3, D would be replaced by A, E would become B,
 ## Project Structure
 
 ```
-caesar-cipher-tool/
+caesar-cipher/
 ├── caesar_cipher.py    # Main application file
 ├── requirements.txt        # Required packages
 ├── README.md               # This file
 ├── LICENSE                 # License information
-└── assets/                 # Application assets
-    └── icon.ico            # Application icon
-```
 
 ## License
 
